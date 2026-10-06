@@ -1,0 +1,21 @@
+# Documents managed separately
+/Presentations/
+/Requirements/
+
+# macOS
+.DS_Store
+
+# KiCad local settings, locks, and backups
+*.kicad_prl
+*.lck
+~*.lck
+*-backups/
+fp-info-cache
+*.bak
+*.bck
+*~
+
+# Build output
+build/
+__pycache__/
+*.pyc
